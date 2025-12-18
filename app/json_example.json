@@ -1,0 +1,25 @@
+{
+  "transcript": null,
+  "statements": [
+    {
+      "id": null,
+      "text": null,
+      "verdict": null,
+      "rationale": null,
+      "confidence": null,
+      "query": null,
+      "evidence": [
+        {
+          "pubmed_id": null,
+          "url": null,
+          "summary": null,
+          "relevance": null
+        }
+      ]
+    }
+  ],
+  "overall_truthiness": null
+}
+
+
+
