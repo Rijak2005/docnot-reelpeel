@@ -4,6 +4,18 @@
 
 ---
 
+## 👥 Team
+
+This project was created during the **Healthcare Hackathon Regensburg 2025** by: 
+
+- [@Rijak2005](https://github.com/Rijak2005)
+- [@alisondur](https://github.com/alisondur)
+- [@jonoboderbonobo](https://github.com/jonoboderbonobo)
+- [@jojomo96](https://github.com/jojomo96)
+- [@kajan09](https://github.com/kajan09)
+
+---
+
 ## ✨ Features
 
 | Stage                         | What it does                                                   | Key deps                            |
